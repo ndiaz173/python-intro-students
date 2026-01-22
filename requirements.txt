@@ -1,0 +1,12 @@
+# Minimal data-science stack for introductory notebooks
+jupyterlab>=4.0
+notebook>=6.0
+ipykernel
+ipywidgets
+pandas>=1.5
+numpy>=1.25
+matplotlib
+seaborn
+scikit-learn
+plotly
+openpyxl
